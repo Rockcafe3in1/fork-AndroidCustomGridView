@@ -1,6 +1,4 @@
 .gradle/
-idea/workspace.xml
-android-OSS.iml
+.idea/
 app/build/
 build/
-.idea/
