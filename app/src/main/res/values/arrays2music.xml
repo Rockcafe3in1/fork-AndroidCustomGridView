@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="album_res_id">
+
+        <item>@drawable/baby_i_love_you</item>
+        <item>@drawable/do_not_stop_the_music</item>
+        <item>@drawable/everytime</item>
+        <item>@drawable/love_the_way_you_lie</item>
+        <item>@drawable/read_all_about_it</item>
+        <item>@drawable/skinny_love</item>
+        <item>@drawable/smooth_criminal</item>
+        <item>@drawable/try_colbie</item>
+        <item>@drawable/waves</item>
+        <item>@drawable/baby_i_love_you</item>
+        <item>@drawable/do_not_stop_the_music</item>
+        <item>@drawable/everytime</item>
+        <item>@drawable/love_the_way_you_lie</item>
+        <item>@drawable/read_all_about_it</item>
+        <item>@drawable/skinny_love</item>
+        <item>@drawable/smooth_criminal</item>
+        <item>@drawable/try_colbie</item>
+        <item>@drawable/waves</item>
+
+    </string-array>
+
+</resources>
